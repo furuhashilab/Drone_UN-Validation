@@ -5,6 +5,10 @@
 * Building Plugin の使い方
 * 建物の形状修正（直角化、スナップしたノード処理）
 
+## 役割分担
+* グラレコ：林ゆかり
+* 文章：佐藤あき
+
 ## グラレコ
 ![S__2736339](https://github.com/furuhashilab/Drone_UN-Validation/assets/134602960/10c7806d-25d4-41c3-a5ce-948ffa302abc)
 
