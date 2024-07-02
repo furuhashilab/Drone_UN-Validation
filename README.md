@@ -6,7 +6,7 @@
 * 建物の形状修正（直角化、スナップしたノード処理）
 
 ## 役割分担
-* グラレコ：林ゆかり
+* グラレコ：林ゆかり　https://github.com/YukariHayashi
 * 文章：佐藤あき　https://github.com/akidinosaurs
 
 ## グラレコ
