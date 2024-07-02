@@ -7,7 +7,7 @@
 
 ## 役割分担
 * グラレコ：林ゆかり
-* 文章：佐藤あき
+* 文章：佐藤あき　https://github.com/akidinosaurs
 
 ## グラレコ
 ![S__2736339](https://github.com/furuhashilab/Drone_UN-Validation/assets/134602960/10c7806d-25d4-41c3-a5ce-948ffa302abc)
